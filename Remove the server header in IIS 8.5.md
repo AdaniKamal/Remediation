@@ -27,7 +27,15 @@
 
 ![image](https://github.com/AdaniKamal/Remediation/assets/44063862/17092a36-6ec6-4635-a923-ed364cf6af4d)
 
-|
+| Number   |  Value     |
+| ------------- | ------------- |
+| 1             | Remove Server Header |
+| 2             | Server Variable (select from menu) |
+| 3             | RESPONSE_SERVER |
+| 4             | .* |
+| 5             | Rewrite (select from menu) |
+| 6             | Make sure that value is empty |
+| 7             | Apply |
 
 7. Click "OK" to save the changes.
 
