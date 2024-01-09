@@ -16,6 +16,9 @@ Accept - media types that the client is able to accept from the server
 
 > Accept: application/json, text/html
 
+User-Agent - identifies the web browser or client application that is making the request.
+
+Authorization - used to send the client’s credentials to the server when the client is attempting to access a protected resource
 
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Ftech.jotform.com%2Funderstanding-http-headers-f240f215f37b&psig=AOvVaw3CIA5GFKbeiQiQB_-PiWm-&ust=1704447245975000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCYr_i2w4MDFQAAAAAdAAAAABAD
