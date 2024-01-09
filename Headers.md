@@ -12,19 +12,19 @@ Headers are case-insensitive, begin at the start of a line and are immediately f
 
 ### Request Headers
 
-<b> Accept </b> - media types that the client is able to accept from the server
+<b> 1. Accept </b> - media types that the client is able to accept from the server
 
 > Accept: application/json, text/html
 
-<b> User-Agent </b> - identifies the web browser or client application that is making the request.
+<b> 2. User-Agent </b> - identifies the web browser or client application that is making the request.
 
-<b> Authorization </b> - used to send the client’s credentials to the server when the client is attempting to access a protected resource
+<b> 3. Authorization </b> - used to send the client’s credentials to the server when the client is attempting to access a protected resource
 
-<b> Content-Type </b> - identifies the media type of the content in the request body
+<b> 4. Content-Type </b> - identifies the media type of the content in the request body
 
 > Content-Type: application/json
 
-<b> Cookie </b> - client use to send previously stored cookies back to the server
+<b> 5. Cookie </b> - client use to send previously stored cookies back to the server
 
 ### Response Headers
 
