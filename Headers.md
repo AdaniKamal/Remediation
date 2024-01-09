@@ -16,19 +16,19 @@ Headers are case-insensitive, begin at the start of a line and are immediately f
 
 > Accept: application/json, text/html
 
-User-Agent - identifies the web browser or client application that is making the request.
+<b> User-Agent </b> - identifies the web browser or client application that is making the request.
 
-Authorization - used to send the client’s credentials to the server when the client is attempting to access a protected resource
+<b> Authorization </b> - used to send the client’s credentials to the server when the client is attempting to access a protected resource
 
-Content-Type - identifies the media type of the content in the request body
+<b> Content-Type </b> - identifies the media type of the content in the request body
 
 > Content-Type: application/json
 
-Cookie - client use to send previously stored cookies back to the server
+<b> Cookie </b> - client use to send previously stored cookies back to the server
 
 ### Response Headers
 
-Content-Type - indicates the type of data that the server is sending to the client.
+<b> Content-Type </b> - indicates the type of data that the server is sending to the client.
 
 Cache-Control - controls caching behavior in the client’s browser or intermediate caches
 
