@@ -33,6 +33,8 @@ Headers are case-insensitive, begin at the start of a line and are immediately f
 
 <b> 1. Content-Type </b> - indicates the type of data that the server is sending to the client.
 
+> content-type: application/json;
+
 <b> 2. Cache-Control </b> - controls caching behavior in the client’s browser or intermediate caches
 
 > Cache-Control: max-age=3600, public
@@ -48,3 +50,6 @@ Headers are case-insensitive, begin at the start of a line and are immediately f
 
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Ftech.jotform.com%2Funderstanding-http-headers-f240f215f37b&psig=AOvVaw3CIA5GFKbeiQiQB_-PiWm-&ust=1704447245975000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCYr_i2w4MDFQAAAAAdAAAAABAD
+https://help.deepsecurity.trendmicro.com/20_0/on-premise/http-security-headers.html#Customiz
+https://www.linkedin.com/pulse/ultimate-guide-harden-http-security-headers-your-web-application/
+https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Headers_Cheat_Sheet.html
