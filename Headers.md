@@ -33,17 +33,17 @@ Headers are case-insensitive, begin at the start of a line and are immediately f
 
 <b> Content-Type </b> - indicates the type of data that the server is sending to the client.
 
-<b> Cache-Control - controls caching behavior in the client’s browser or intermediate caches
+<b> Cache-Control </b> - controls caching behavior in the client’s browser or intermediate caches
 
 > Cache-Control: max-age=3600, public
 
-<b> Server - includes the name and version of the server software & technology stack.
+<b> Server </b> - includes the name and version of the server software & technology stack.
 
 > Server: Apache/2.4.10 (Unix)
 
-<b> Set-Cookie - instructs the client to store a cookie with the specified name, value, and additional attributes, such as expiration, domain, path, and security flags.
+<b> Set-Cookie </b> - instructs the client to store a cookie with the specified name, value, and additional attributes, such as expiration, domain, path, and security flags.
 
-<b> Content-Length - specifies the size of the response body in bytes, can help the client anticipate how much data it is going to receive.
+<b> Content-Length </b> - specifies the size of the response body in bytes, can help the client anticipate how much data it is going to receive.
 
 
 
