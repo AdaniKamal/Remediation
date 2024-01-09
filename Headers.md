@@ -2,7 +2,7 @@
 
 ## Website Header
 
-HTTP header is a field of an HTTP request/response that passes additional context and metadata about the request/response. 
+<b> HTTP header </b> is a field of an HTTP request/response that passes additional context and metadata about the request/response. 
 
 For example, a request message can use headers to indicate it's preferred media formats, while a response can use header to indicate the media format of the returned body. 
 
@@ -12,7 +12,7 @@ Headers are case-insensitive, begin at the start of a line and are immediately f
 
 ### Request Headers
 
-Accept - media types that the client is able to accept from the server
+<b> Accept </b> - media types that the client is able to accept from the server
 
 > Accept: application/json, text/html
 
