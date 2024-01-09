@@ -10,7 +10,7 @@ Headers are case-insensitive, begin at the start of a line and are immediately f
 
 > Headers:
 
-Request Headers
+### Request Headers
 
 Accept - media types that the client is able to accept from the server
 
@@ -26,7 +26,7 @@ Content-Type - identifies the media type of the content in the request body
 
 Cookie - client use to send previously stored cookies back to the server
 
-Response Headers
+### Response Headers
 
 Content-Type - indicates the type of data that the server is sending to the client.
 
